@@ -47,9 +47,4 @@ The dataset "data_exam.xlsx" contains three columns of interest:
 - **Objective**: Plot and analyze the impulse response function from the VAR model.
 - **Approach**: Discuss the results and their significance in understanding the time series dynamics.
 
-## Contribution Guidelines
-
-- **Collaboration**: Work collaboratively, dividing tasks evenly among group members.
-- **Documentation**: Ensure all analysis and code are well-documented within the Jupyter Notebook.
-- **Communication**: Regularly update the team on progress and challenges.
 
